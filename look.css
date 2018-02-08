@@ -1,3 +1,9 @@
+body{
+background-color:aqua
+padding: 1cm;
+border-color: aquamarine;
+}
+
 h1{
 color:orange;
 background-color: lightblue;
